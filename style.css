@@ -154,14 +154,6 @@ header{
     border-right: none;
 }
 
-/* .banner .content h4 span i{
-    background: var(--primary);
-    color: #fff;
-    padding: 0 8px;
-    display: inline-block;
-    border-radius: 2px;
-} */
-
 .banner .content p{
     font-size: 1em;
     font-weight: 300;
@@ -239,33 +231,6 @@ header{
     object-fit: cover;
     object-position: center;
     margin-top: 50px;
-}
-
-.play{
-    position: absolute;
-    bottom: 50px;
-    left: 100px;
-    display: inline-flex;
-    justify-content: flex-start;
-    align-items: center;
-    color: #fff;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-weight: 500;
-    letter-spacing: 1px;
-    font-size: 0.9em;
-    cursor: pointer !important;
-    transition: 0.3s;
-}
-
-.play i{
-    margin-right: 10px;
-    font-size: 40px;
-    cursor: pointer !important;
-}
-
-.play:hover{
-    color: var(--primary);
 }
 
 .sci{
